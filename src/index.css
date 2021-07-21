@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: content-box radial-gradient(crimson, skyblue);
+  background: content-box radial-gradient(rgb(20, 83, 220), skyblue);
   /* background: linear-gradient(
     to left,
     rgba(7,27,82,1) 0%
